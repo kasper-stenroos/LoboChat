@@ -1,0 +1,6 @@
+{
+  "name": "LoboChat",
+  "tagline": "RESTful Java Chat Application",
+  "body": "### Overview\r\nSchool project for Application Development Methods course. The target environment is a fictional hospital and the user group consists of doctors, nurses and other personnel.\r\n\r\n### Technical Details\r\nThe back-end is implemented with Java using Jersey framework and the front-end is based on a web client implemented with HTML, CSS, JavaScript, jQuery and Ajax. The notification system is based on web sockets. The application has optimized UIs for mobile, tablet and desktop use.\r\n\r\n### Authors and Contributors\r\nFour member group (@orostider, @kjghtp, @kasper-stenroos and @aidesign) studying Software Engineering on second year (Bachelor of Engineering).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
